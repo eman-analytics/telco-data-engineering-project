@@ -23,7 +23,7 @@ from sqlalchemy import create_engine
 
 # بيانات الاتصال بقاعدة البيانات
 user = "postgres"
-password = "0541"
+password = "YOUR_PASSWORD"
 host = "localhost"
 port = "5432"
 database = "telco_churn"
